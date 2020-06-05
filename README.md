@@ -1,7 +1,7 @@
 # Whatsapp-Web-dark-mode
 <p>This userscript uses dark theme predefined by whatsapp but in a development phase.</p>
 <p>
-  <a href="https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Dark%20Whatsapp%20Web.user.js">Click here</a>
+  <a href="https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Whatsapp-Web-dark-mode.user.js">Click here</a>
 to install this script.
 </p>
 <p>(You need to have userscript engine installed, like Tampermonkey.)</p>
