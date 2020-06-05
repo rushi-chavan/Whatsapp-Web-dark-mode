@@ -5,6 +5,7 @@
 // @author       Rushikesh Chavan
 // @match        https://web.whatsapp.com/
 // @grant        none
+// @run-at     document-start
 // ==/UserScript==
 
 var mutationObserver = new MutationObserver(function(mutations) {
