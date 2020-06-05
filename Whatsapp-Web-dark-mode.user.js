@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Whatsapp Web dark mode
-// @namespace    https://github.com/rushi-chavan
+// @namespace    https://github.com/rushi-chavan/Whatsapp-Web-dark-mode
 // @version      0.2
 // @author       Rushikesh Chavan
 // @updateURL    https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Whatsapp-Web-dark-mode.user.js
