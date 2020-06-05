@@ -3,8 +3,8 @@
 // @namespace    https://github.com/rushi-chavan
 // @version      0.2
 // @author       Rushikesh Chavan
-// @updateURL    https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Dark%20Whatsapp%20Web.user.js
-// @downloadURL  https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Dark%20Whatsapp%20Web.user.js
+// @updateURL    https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Whatsapp-Web-dark-mode.user.js
+// @downloadURL  https://github.com/rushi-chavan/Whatsapp-Web-dark-mode/raw/master/Whatsapp-Web-dark-mode.user.js
 // @match        https://web.whatsapp.com/
 // @grant        none
 // @run-at     document-start
